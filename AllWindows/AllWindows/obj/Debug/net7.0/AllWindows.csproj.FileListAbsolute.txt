@@ -1,0 +1,14 @@
+C:\Users\aleks\RiderProjects\AllWindows\AllWindows\bin\Debug\net7.0\AllWindows.exe
+C:\Users\aleks\RiderProjects\AllWindows\AllWindows\bin\Debug\net7.0\AllWindows.deps.json
+C:\Users\aleks\RiderProjects\AllWindows\AllWindows\bin\Debug\net7.0\AllWindows.runtimeconfig.json
+C:\Users\aleks\RiderProjects\AllWindows\AllWindows\bin\Debug\net7.0\AllWindows.dll
+C:\Users\aleks\RiderProjects\AllWindows\AllWindows\bin\Debug\net7.0\AllWindows.pdb
+C:\Users\aleks\RiderProjects\AllWindows\AllWindows\obj\Debug\net7.0\AllWindows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\RiderProjects\AllWindows\AllWindows\obj\Debug\net7.0\AllWindows.AssemblyInfoInputs.cache
+C:\Users\aleks\RiderProjects\AllWindows\AllWindows\obj\Debug\net7.0\AllWindows.AssemblyInfo.cs
+C:\Users\aleks\RiderProjects\AllWindows\AllWindows\obj\Debug\net7.0\AllWindows.csproj.CoreCompileInputs.cache
+C:\Users\aleks\RiderProjects\AllWindows\AllWindows\obj\Debug\net7.0\AllWindows.dll
+C:\Users\aleks\RiderProjects\AllWindows\AllWindows\obj\Debug\net7.0\refint\AllWindows.dll
+C:\Users\aleks\RiderProjects\AllWindows\AllWindows\obj\Debug\net7.0\AllWindows.pdb
+C:\Users\aleks\RiderProjects\AllWindows\AllWindows\obj\Debug\net7.0\AllWindows.genruntimeconfig.cache
+C:\Users\aleks\RiderProjects\AllWindows\AllWindows\obj\Debug\net7.0\ref\AllWindows.dll
